@@ -30,6 +30,7 @@ Listas de palavras simples foram criadas no Kali para realizar os testes de for�
 
 # Criando a lista de senhas
 └─$ echo -e '123456\npassword\nqwerty\nmfsadmin' > pass.txt
+
 ![Wordlist](https://github.com/user-attachments/assets/f95da0e6-b0e3-4c24-bbe1-666aca802206)
 
 3. 💥 Execução dos Ataques
